@@ -1,3 +1,20 @@
+# SensorBox
+
+FRELLDEVS
+
+## Rest Api
+
+* BACKEND
+## Descripción
+
+Creación del proyecto backend de sensorbox, una api que administra el funcionamiento de dicho proyecto
+
+## Implementaciones
+
+* Mongoose
+
+> Herramienta utilizada para almacenar la información constante de los sensores
+
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
